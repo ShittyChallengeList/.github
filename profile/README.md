@@ -1,12 +1,3 @@
 ## ermmm.. Hi there! 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Shitty Challenge List is a GitHub organization that hosts a variety of programming challenges and puzzles that are designed to be both entertaining and challenging for coders of all levels. The challenges are unique, creative, and sometimes downright ridiculous, but they are always designed to push your coding skills to the limit. Whether you are a beginner looking to learn new programming concepts or an experienced coder looking for a new challenge, Shitty Challenge List has something for everyone. With a growing community of contributors and participants, this organization offers a fun and supportive environment for anyone interested in taking on some of the weirdest and wackiest programming challenges out there. So, if you are looking for a new way to challenge your coding skills and have some fun along the way, Shitty Challenge List might just be the perfect place for you.
